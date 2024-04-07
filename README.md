@@ -51,6 +51,8 @@ https://github.com/apachecn/ailearning
 课程视频：
 https://www.bilibili.com/video/av45357759/?from=search&seid=9547815852611563503&vd_source=8a4459b96104c26baa6da091819003c9
 
+https://spinningup.qiwihui.com/zh-cn/latest/spinningup/rl_intro2.html
+
 2 自然语言处理
 
 3 计算机视觉
